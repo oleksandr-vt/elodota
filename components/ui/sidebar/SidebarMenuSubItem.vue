@@ -3,11 +3,7 @@
 </script>
 
 <template>
-  <div>
-    123
-  </div>
+  <li>
+    <slot />
+  </li>
 </template>
-
-<style scoped>
-
-</style>
